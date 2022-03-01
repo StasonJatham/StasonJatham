@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+  
+ <h1 align="center">👨‍💻 It me!</h1>
 
-<!--
-**StasonJatham/StasonJatham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Karl. I love hacking and cyber security, currently working as a senior soc analyst, but also doing offensive shenanigans and research.
+I use this repo for all sorts of projects, a lot of the finance ones are private, but most of the hacking tools, that I am allowed to share, are public. 
 
-Here are some ideas to get you started:
+Thanks for stopping by!
+Catch you on the bit side! (literally - Blue Team humor 😄)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 🧐 Find Me
+💻 Website: [bearbot.de](https://bearbot.de), [karl.exploit.to](https://karl.exploit.to) | 
+🐦 Twitter: [@ItsKarl0z](https://twitter.com/ItsKarl0z) | 
+🔗 LinkedIn:[linkedin.com/karl](https://www.linkedin.com/in/karl-machleidt/) | 
+⚡  XING:    [xing.com/karl](https://www.xing.com/profile/Karl_Machleidt/cv)
+
+![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
+
+</div>
+
