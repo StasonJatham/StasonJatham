@@ -10,10 +10,8 @@ Catch you on the bit side! (literally - Blue Team humor 😄)
 
 
 # 🧐 Find Me
-💻 Website: [bearbot.de](https://bearbot.de), [karl.exploit.to](https://karl.exploit.to) | 
+💻 Website: [bearbot.de](https://bearbot.de), [exploit.to](https://exploit.to) | 
 🐦 Twitter: [@ItsKarl0z](https://twitter.com/ItsKarl0z) | 
-🔗 LinkedIn:[linkedin.com/karl](https://www.linkedin.com/in/karl-machleidt/) | 
-⚡  XING:    [xing.com/karl](https://www.xing.com/profile/Karl_Machleidt/cv)
 
 ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
 
