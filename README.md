@@ -11,7 +11,8 @@ Catch you on the bit side! (literally - Blue Team humor 😄)
 
 
 # 🧐 Find Me
-💻 Website: [bearbot.de](https://bearbot.de), [exploit.to](https://exploit.to) | 
+💻 Personal Website: [4b.gg](https://4b.gg)
+💻 Business Website: [unixcat.de](https://unixcat.de) 
 🐦 Twitter: [@ItsKarl0z](https://twitter.com/ItsKarl0z) | 
 
 ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
