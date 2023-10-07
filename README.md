@@ -11,9 +11,8 @@ Catch you on the bit side! (literally - Blue Team humor 😄)
 
 
 # 🧐 Find Me
-💻 Personal Website: [4b.gg](https://4b.gg)
-💻 Business Website: [unixcat.de](https://unixcat.de) 
-🐦 Twitter: [@ItsKarl0z](https://twitter.com/ItsKarl0z) | 
+💻 Personal Website: [stonkmarket.de](https://stonkmarket.de)
+
 
 ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
 
