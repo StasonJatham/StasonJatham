@@ -1,5 +1,5 @@
 <div align="center">  
- <h1 align="center">👨‍💻 It me!</h1>
+ <h1 align="center">👨‍💻 Hello</h1>
 </div>
 
 <div align="center">
@@ -7,14 +7,8 @@ My name is Karl. I love hacking and cyber security, currently working as a senio
 I use this repo for all sorts of projects, a lot of the finance ones are private, but most of the hacking tools, that I am allowed to share, are public. 
 
 Thanks for stopping by!
-Catch you on the bit side! (literally - Blue Team humor 😄)
 
-
-# 🧐 Find Me
-💻 Personal Website: [stonkmarket.de](https://stonkmarket.de)
-
-
-![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
+# 🧐 Find Me @ [karlcom.de](https://karlcom.de/0nbw)
 
 </div>
 
