@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-My name is Karl. I love hacking and cyber security, currently working as a senior soc analyst, but also doing offensive shenanigans and research.
-I use this repo for all sorts of projects, a lot of the finance ones are private, but most of the hacking tools, that I am allowed to share, are public. 
+Hi, I’m Karl! I’m passionate about hacking and cybersecurity. Currently, I work as a Principal Incident Responder, but I also dive into offensive security research and experiments.
 
-Thanks for stopping by!
+This repository is a hub for various projects I’m working on. While many of my finance-related tools are private, I’ve made most of my hacking tools, where permissible, publicly available.
 
-# 🧐 Find Me @ [karlcom.de](https://karlcom.de/0nbw)
+Thanks for checking out my work!
+# 🧐 Find Me on my website: [exploit.to](https://exploit.to)
 
 </div>
 
