@@ -1,17 +1,54 @@
-<div align="center">  
- <h1 align="center">👨‍💻 Hello</h1>
+<div align="">  
+ <h1 align="">👨‍💻 Hello, World!</h1>
 </div>
+
+<div align="">
+<h3 align="">Hi, I’m Karl!</h3>
+<p>
+A passionate cybersecurity expert and relentless tinkerer. I specialize in hacking, offensive security research, and incident response. When I’m not chasing vulnerabilities, I’m building tools, experimenting with technology, and diving deep into the world of secure coding and systems design.
+</p>
+
+<p>
+This GitHub Account is my creative playground — a space where I share tools, scripts, and projects that make cybersecurity a little bit more accessible and exciting for everyone.
+</p>
+
+---
+
+🌟 **Key Highlights** 🌟  
+- 🛡️ **Principal Incident Responder:** On the front lines of digital defense.  
+- 🔐 **Offensive Security Enthusiast:** Discovering new ways to break (and fix) systems.  
+- ⚡ **Open Source Advocate:** Sharing tools and knowledge with the community.  
+
+Feel free to explore, star ⭐, or contribute to my projects! Collaboration is the heart of innovation.  
+</div>
+
+---
+
+## 🛠️ Featured Projects
+
+You can find all my featured projects on my website: [Projects - Karl.Fail](https://karl.fail/projects/?mtm_campaign=github&mtm_kwd=profile-projects)
+
+_(Note: Some projects remain private for security and compliance reasons.)_
+
+---
+
+## 📊 GitHub Stats
+
+<div align="">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasonjatham&layout=compact&theme=radical)  
+
+</div>
+
+---
+
+## 🌐 Find Me Online
+
+- 🖥️ **Website:** [karl.fail](https://karl.fail/?mtm_campaign=github&mtm_kwd=profile)
+- 💼 **LinkedIn:** [Karl on LinkedIn](https://evil.fail/linkedin)
+
+---
 
 <div align="center">
-Hi, I’m Karl! I’m passionate about hacking and cybersecurity. Currently, I work as a Principal Incident Responder, but I also dive into offensive security research and experiments.
-
-This repository is a hub for various projects I’m working on. While many of my finance-related tools are private, I’ve made most of my hacking tools, where permissible, publicly available.
-
-Thanks for checking out my work!
-# 🧐 Find Me on my website: [exploit.to](https://exploit.to)
-
+Thanks for stopping by! Keep learning, keep building, and keep hacking.  
 </div>
-
-# Some Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasonjatham)](https://github.com/stasonjatham/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stasonjatham&show_icons=true&theme=tokyonight)
-
