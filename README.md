@@ -38,6 +38,8 @@ _(Note: Some projects remain private for security and compliance reasons.)_
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasonjatham&layout=compact&theme=radical)  
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=StasonJatham&theme=dark&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
+
 </div>
 
 ---
