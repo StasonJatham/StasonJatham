@@ -26,7 +26,7 @@ This GitHub account is a professional workspace where I publish selected tools, 
 ## Selected Projects
 
 An overview of selected public projects is available here:  
-**Projects:** https://karl.fail/projects/?mtm_campaign=github&mtm_kwd=profile-projects
+**Projects:**  [Projects - Karl.Fail](https://karl.fail/projects/?mtm_campaign=github&mtm_kwd=profile-projects)
 
 > Note: Not all projects are publicly accessible.
 
