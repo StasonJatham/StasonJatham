@@ -34,13 +34,14 @@ An overview of selected public projects is available here:
 
 ## GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stasonjatham&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasonjatham&layout=compact&theme=radical)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=StasonJatham&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=StasonJatham&theme=dark&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
 
 ---
 
 ## Online Presence
+- **Website:** [karl.fail](https://karl.fail/?mtm_campaign=github&mtm_kwd=profile)
+- **LinkedIn:** [Karl on LinkedIn](https://evil.fail/linkedin)
 
-- **Website:** https://karl.fail/?mtm_campaign=github&mtm_kwd=profile  
-- **LinkedIn:** https://evil.fail/linkedin
+---
